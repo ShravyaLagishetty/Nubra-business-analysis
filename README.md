@@ -77,4 +77,4 @@ A complete **Go-to-Market (GTM) strategy** and **market sizing analysis** for Nu
 
 
 # Run the Streamlit app
-streamlit run Nubra_market_size.py
+streamlit run Nubra_Market_size.py
